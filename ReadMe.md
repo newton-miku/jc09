@@ -1,6 +1,7 @@
 # at_server
 
 jc09 at实现
+# 仓库已遗弃，本仓库中的内容需要跨架构的联合编译
 
 ## 编译
 
@@ -13,6 +14,6 @@ sudo apt update && sudo apt install libglib2.0-dev cmake -y
 make
 ```
 
-## 直接下载使用
+## ~~直接下载使用~~
 
-点击右边的[Releases](https://github.com/newton-miku/jc09/releases/latest)下载解压运行即可
+~~点击右边的[Releases](https://github.com/newton-miku/jc09/releases/latest)下载解压运行即可~~
